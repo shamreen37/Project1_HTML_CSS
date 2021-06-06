@@ -42,6 +42,11 @@ body {
     background-color: rgb(41, 170, 245);
 }
 
+.heading:hover {
+    background-color: rgb(31, 126, 180);
+    cursor: default;
+}
+
 .heading1 {
     background-color: rgb(31, 126, 180);
 }
